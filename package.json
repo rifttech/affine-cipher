@@ -1,7 +1,7 @@
 {
-  "name": "mocha-starter-kit",
+  "name": "affine-cipher",
   "version": "0.0.1",
-  "description": "mocha, starter, kit, js, tests",
+  "description": "implementation of affine cipher",
   "main": "index.js",
   "author": "Abramov Arthur",
   "license": "MIT",
